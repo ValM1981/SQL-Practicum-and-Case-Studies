@@ -37,5 +37,6 @@ Encapsulating granular data transformations and metrics computation:
 
 ## 👩‍💻 Let's Connect!
 I specialize in bridging the gap between rigorous mathematical logic and robust relational database structures. If you are a recruiter or a team lead looking for a detail-oriented Data Analyst with high T-SQL literacy, let's get in touch:
-*   **LinkedIn:** [linkedin.com/in/valentyna-matskevych-07389587]
+*   **LinkedIn:**[linkedin.com/in/valentyna-matskevych-07389587](https://www.linkedin.com/in/valentyna-matskevych-07389587)
+
 *   **Email:** matskevych.vt@gmail.com
